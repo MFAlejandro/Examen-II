@@ -1,0 +1,44 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@foreach (var item in ViewBag.taskData)
+{
+    
+    <div class="container mt-4">
+        <h2>Create a New Task</h2>
+        
+        <form method="post" action="@Url.Action("UpdateTask", "Functions")">
+            <input type="text" class="form-control" id="id" name="id" value="@item.ID" hidden>
+            <input type="text" class="form-control" id="docu" name="docu" value="@item.ducuID" hidden>
+            <div class="mb-3">
+            <div class="mb-3">
+                <label for="name" class="form-label">Task Name</label>
+                <input type="text" class="form-control" id="name" name="Name" value="@item.Name" required>
+            </div>
+
+            <div class="mb-3">
+                <label for="description" class="form-label">Description</label>
+                <textarea class="form-control" id="description" name="Description"  rows="3" required>@item.Description</textarea>
+            </div>
+
+            <div class="mb-3">
+                <label for="dueDate" class="form-label">Due Date</label>
+                <input type="date" class="form-control" id="dueDate" name="DueDate" value="@item.DueDate"  required>
+            </div>
+
+            <div class="mb-3">
+                <label for="priority" class="form-label">Priority</label>
+                <select class="form-select" id="priority" name="Priority" value="@item.Priority" required>
+                    <option value="High">High</option>
+                    <option value="Medium">Medium</option>
+                    <option value="Low">Low</option>
+                </select>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Create Task</button>
+        </form>
+    </div>
+}

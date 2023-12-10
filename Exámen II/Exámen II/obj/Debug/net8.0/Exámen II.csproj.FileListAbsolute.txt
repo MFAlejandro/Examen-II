@@ -1,0 +1,65 @@
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\appsettings.json
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Exámen II.staticwebassets.runtime.json
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Exámen II.exe
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Exámen II.deps.json
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Exámen II.runtimeconfig.json
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Exámen II.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Exámen II.pdb
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\Exámen II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\Exámen II.AssemblyInfoInputs.cache
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\Exámen II.AssemblyInfo.cs
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\Exámen II.csproj.CoreCompileInputs.cache
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\Exámen II.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\Exámen II.RazorAssemblyInfo.cache
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\Exámen II.RazorAssemblyInfo.cs
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\staticwebassets\msbuild.Exámen II.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\staticwebassets\msbuild.build.Exámen II.props
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Exámen II.props
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Exámen II.props
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\scopedcss\bundle\Exámen II.styles.css
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\scopedcss\projectbundle\Exámen II.bundle.scp.css
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\Exámen II.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\refint\Exámen II.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\Exámen II.pdb
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\Exámen II.genruntimeconfig.cache
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\ref\Exámen II.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\FireBaseConfig.Json
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\FirebaseAdmin.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Firebase.Auth.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Firebase.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\FireSharp.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Google.Api.CommonProtos.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Google.Api.Gax.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Google.Api.Gax.Grpc.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Google.Api.Gax.Rest.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Google.Apis.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Google.Apis.Auth.PlatformServices.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Google.Cloud.Firestore.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Google.Cloud.Firestore.V1.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Google.Cloud.Location.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Google.LongRunning.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Grpc.Auth.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Grpc.Core.Api.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Grpc.Net.Client.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Grpc.Net.Common.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\LiteDB.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Microsoft.Threading.Tasks.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\System.Net.Http.Extensions.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\System.Net.Http.Primitives.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\System.Linq.Async.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\bin\Debug\net8.0\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\Exámen II.csproj.AssemblyReference.cache
+C:\Users\alemu\source\repos\Exámen II\Exámen II\obj\Debug\net8.0\Exámen II.csproj.CopyComplete
